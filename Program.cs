@@ -35,3 +35,25 @@ System.Console.WriteLine(0b1011);
 System.Console.WriteLine(011);
 int io = Convert.ToInt32("12", 8);
 System.Console.WriteLine(io); // 10 => 2x8^0 + 1x8^1 = 2 + 8 = 10(10)
+
+//heksadecymalny
+System.Console.WriteLine(0xA1);
+
+//zakres typów danych
+System.Console.WriteLine(byte.MinValue); //0
+System.Console.WriteLine(byte.MaxValue); //255
+
+System.Console.WriteLine(sbyte.MinValue); //-128
+System.Console.WriteLine(sbyte.MaxValue); //127
+
+System.Console.WriteLine(int.MinValue); // -
+
+System.Console.WriteLine(long.MinValue);
+
+System.Console.WriteLine(Int128.MaxValue); // brak typu w .net 8. Istniał w 7
+
+Console.OutputEncoding = System.Text.Encoding.Unicode;
+System.Console.WriteLine("♪");
+Console.OutputEncoding = System.Text.Encoding.Default;
+
+System.Console.WriteLine();
