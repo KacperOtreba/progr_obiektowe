@@ -1,0 +1,4 @@
+/media/redq/Samsung/progr_obiektowe/obj/Debug/net7.0/progr_obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+/media/redq/Samsung/progr_obiektowe/obj/Debug/net7.0/progr_obiektowe.AssemblyInfoInputs.cache
+/media/redq/Samsung/progr_obiektowe/obj/Debug/net7.0/progr_obiektowe.AssemblyInfo.cs
+/media/redq/Samsung/progr_obiektowe/obj/Debug/net7.0/progr_obiektowe.csproj.CoreCompileInputs.cache
