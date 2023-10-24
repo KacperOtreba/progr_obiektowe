@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("progr_obiektowe")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("lekcja_17.10.2023")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("progr_obiektowe")]
-[assembly: System.Reflection.AssemblyTitleAttribute("progr_obiektowe")]
+[assembly: System.Reflection.AssemblyProductAttribute("lekcja_17.10.2023")]
+[assembly: System.Reflection.AssemblyTitleAttribute("lekcja_17.10.2023")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Wygenerowane przez klasę WriteCodeFragment programu MSBuild.
