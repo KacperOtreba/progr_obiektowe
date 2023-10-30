@@ -1,0 +1,14 @@
+F:\progr_obiektowe\Cwiczenia\bin\Debug\net7.0\Cwiczenia.exe
+F:\progr_obiektowe\Cwiczenia\bin\Debug\net7.0\Cwiczenia.deps.json
+F:\progr_obiektowe\Cwiczenia\bin\Debug\net7.0\Cwiczenia.runtimeconfig.json
+F:\progr_obiektowe\Cwiczenia\bin\Debug\net7.0\Cwiczenia.dll
+F:\progr_obiektowe\Cwiczenia\bin\Debug\net7.0\Cwiczenia.pdb
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.GeneratedMSBuildEditorConfig.editorconfig
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.AssemblyInfoInputs.cache
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.AssemblyInfo.cs
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.csproj.CoreCompileInputs.cache
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.dll
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\refint\Cwiczenia.dll
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.pdb
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\Cwiczenia.genruntimeconfig.cache
+F:\progr_obiektowe\Cwiczenia\obj\Debug\net7.0\ref\Cwiczenia.dll
