@@ -1,0 +1,15 @@
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/bin/Debug/net7.0/lekcja_24.10.2023
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/bin/Debug/net7.0/lekcja_24.10.2023.deps.json
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/bin/Debug/net7.0/lekcja_24.10.2023.runtimeconfig.json
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/bin/Debug/net7.0/lekcja_24.10.2023.dll
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/bin/Debug/net7.0/lekcja_24.10.2023.pdb
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.csproj.AssemblyReference.cache
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.GeneratedMSBuildEditorConfig.editorconfig
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.AssemblyInfoInputs.cache
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.AssemblyInfo.cs
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.csproj.CoreCompileInputs.cache
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.dll
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/refint/lekcja_24.10.2023.dll
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.pdb
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/lekcja_24.10.2023.genruntimeconfig.cache
+/media/redq/Samsung/progr_obiektowe/lekcja_24.10.2023/obj/Debug/net7.0/ref/lekcja_24.10.2023.dll
