@@ -7,14 +7,14 @@ int x = 0;
 int y = 0;
 while (x <= 0){
     System.Console.Write("Podaj długość pierwszego boku w cm: ");
-    x = int.Parse(Console.ReadLine());
+    x = Convert.ToInt32(Console.ReadLine());
     if (x <= 0){
         System.Console.WriteLine("Bok nie może mieć długości ujemnej lub zerowej\n");
     }
 }
 while (y <= 0){
     System.Console.Write("Podaj długość drugiego boku w cm: ");
-    y = int.Parse(Console.ReadLine());
+    y = Convert.ToInt32(Console.ReadLine());
     if (y <= 0){
         System.Console.WriteLine("Bok nie może mieć długości ujemnej lub zerowej\n");
     }
