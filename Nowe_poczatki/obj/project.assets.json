@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/redq/Samsung/progr_obiektowe/progr_obiektowe.csproj",
+      "projectUniqueName": "/media/redq/Samsung/progr_obiektowe/Nowe_poczatki/progr_obiektowe.csproj",
       "projectName": "progr_obiektowe",
-      "projectPath": "/media/redq/Samsung/progr_obiektowe/progr_obiektowe.csproj",
+      "projectPath": "/media/redq/Samsung/progr_obiektowe/Nowe_poczatki/progr_obiektowe.csproj",
       "packagesPath": "/home/redq/.nuget/packages/",
-      "outputPath": "/media/redq/Samsung/progr_obiektowe/obj/",
+      "outputPath": "/media/redq/Samsung/progr_obiektowe/Nowe_poczatki/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/redq/.nuget/NuGet/NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/221/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.112/RuntimeIdentifierGraph.json"
       }
     }
   }

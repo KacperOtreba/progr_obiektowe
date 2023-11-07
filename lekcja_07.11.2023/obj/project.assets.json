@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/redq/Samsung/progr_obiektowe/Cwiczenia/Cwiczenia.csproj",
-      "projectName": "Cwiczenia",
-      "projectPath": "/media/redq/Samsung/progr_obiektowe/Cwiczenia/Cwiczenia.csproj",
+      "projectUniqueName": "/media/redq/Samsung/progr_obiektowe/lekcja_07.11.2023/lekcja_07.11.2023.csproj",
+      "projectName": "lekcja_07.11.2023",
+      "projectPath": "/media/redq/Samsung/progr_obiektowe/lekcja_07.11.2023/lekcja_07.11.2023.csproj",
       "packagesPath": "/home/redq/.nuget/packages/",
-      "outputPath": "/media/redq/Samsung/progr_obiektowe/Cwiczenia/obj/",
+      "outputPath": "/media/redq/Samsung/progr_obiektowe/lekcja_07.11.2023/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/redq/.nuget/NuGet/NuGet.Config"
