@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lekcja_31.10.2023", "lekcja
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lekcja_05.12.2023", "lekcja_05.12.2023\lekcja_05.12.2023.csproj", "{B5FCB1C0-33BD-499C-82BF-42CB7983E918}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sprawdzian05.12.2023", "sprawdzian05.12.2023\sprawdzian05.12.2023.csproj", "{835B2979-3A14-4AC9-A4F7-37B70181DA92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{B5FCB1C0-33BD-499C-82BF-42CB7983E918}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5FCB1C0-33BD-499C-82BF-42CB7983E918}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5FCB1C0-33BD-499C-82BF-42CB7983E918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{835B2979-3A14-4AC9-A4F7-37B70181DA92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{835B2979-3A14-4AC9-A4F7-37B70181DA92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{835B2979-3A14-4AC9-A4F7-37B70181DA92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{835B2979-3A14-4AC9-A4F7-37B70181DA92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
