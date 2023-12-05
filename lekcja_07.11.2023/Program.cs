@@ -40,7 +40,6 @@
 // Wyświetl na ekranie komunikat, który pokazuje sumę podanych liczb.
 
 
-using System.Diagnostics.CodeAnalysis;
 
 int GetIntegerFromUser(){
     while (true)

@@ -3,7 +3,6 @@
 // Jeśli użytkownik wprowadzi nieprawidłowe dane, program powinien zgłosić wyjątek FormatException i poprosić o ponowne wprowadzenie liczby. 
 // Program powinien działać w pętli, dopóki użytkownik nie wpisze q. Użyj instrukcji try-catch-finally do obsługi wyjątków.
 // using System;
-using System.Security.AccessControl;
 
 void Error(string comment){
     Console.ForegroundColor = ConsoleColor.Red;
