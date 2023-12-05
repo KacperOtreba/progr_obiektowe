@@ -30,6 +30,44 @@ class Program
         // •	Napisz metodę, która przyjmuje jako parametr listę liczb i zwraca listę liczb, które są podzielne przez 3 lub 5.
         // •	Wyświetl na konsoli listę liczb losowych i listę liczb podzielnych przez 3 lub 5.
         // tworzenie listy liczb całkowitych
+        // List<int> numbers = new List<int>(10);
+
+        // // tworzenie obiektu generatora losowych liczb
+        // Random r = new Random();
+
+        // // wywołanie listy 10 losowych liczb z zakresu 1-100
+        // for (int i = 0; i < 10; i++)
+        // {
+        //     numbers.Add(r.Next(1,101));
+        // }
+
+        // // wyświetlanie listy
+        // System.Console.WriteLine("Lista liczb lowsowych: ");
+        // foreach (int item in numbers)
+        // {
+        //     System.Console.Write(item+" ");
+        // }
+        // System.Console.WriteLine();
+
+        // // sprawdzenie metodą CzyPodzielne() listy numbers oraz wyświetlenie jej
+        // List<int> podzielne = CzyPodzielne(numbers);
+        // foreach (int item in podzielne)
+        // {
+        //     System.Console.Write(item+" ");
+        // }
+
+        // •	Napisz program, który tworzy listę liczb całkowitych i wypełnia ją losowymi wartościami z zakresu od 1 do 100.
+        // •	Napisz program, który wyświetla menu z pięcioma opcjami, co chcesz zrobić z listą:
+        // •	Wyświetlić listę liczb podzielnych przez 3 lub 5
+        // •	Wyświetlić listę liczb nieparzystych
+        // •	Wyświetlić listę liczb posortowanych rosnąco
+        // •	Wyświetlić listę liczb posortowanych malejąco
+        // •	Wyjść z programu
+        // •	Napisz metodę dla każdej opcji, która przyjmuje jako parametr listę liczb i zwraca listę liczb spełniających warunek danej opcji.
+        // •	Napisz kod, który obsługuje wybór użytkownika i wywołuje odpowiednią metodę, a następnie wyświetla wynikową listę na konsoli.
+        // •	Napisz kod, który powtarza wyświetlanie menu i obsługę wyboru, dopóki użytkownik nie wybierze opcji wyjścia z programu.
+
+        // tworzenie listy liczb całkowitych
         List<int> numbers = new List<int>(10);
 
         // tworzenie obiektu generatora losowych liczb
@@ -49,12 +87,50 @@ class Program
         }
         System.Console.WriteLine();
 
-        // sprawdzenie metodą CzyPodzielne() listy numbers oraz wyświetlenie jej
-        List<int> podzielne = CzyPodzielne(numbers);
-        foreach (int item in podzielne)
+        //deklaracja zmiennej przechowującej wybór użytkownika
+        int choice;
+
+        // tworzenie pętli do wyświetlania menu i obsługi wyboru
+        do
         {
-            System.Console.Write(item+" ");
-        }
+            // wyświetlenie menu
+            System.Console.WriteLine("1. Wyświetl listę liczb podzielnych przez 3 lub 5");
+            System.Console.WriteLine("1. Wyświetl listę liczb nieparzystych");
+            System.Console.WriteLine("1. Wyświetl listę liczb posortowanych rosnąco");
+            System.Console.WriteLine("1. Wyświetl listę liczb posortowanych malejąco");
+            System.Console.WriteLine("5. Wyjście z programu"); 
+
+            // pobieranie wyboru użytkownika
+            System.Console.Write("Podaj swój wybór: ");
+            choice = int.Parse(Console.ReadLine());
+
+            // wykonywanie akcji w zależnoiści od wyboru
+            switch (choice)
+            {
+                case 1:
+                    // Wywołanie metody która zwraca listę liczb podzielnych przez 3 lub 5
+                    List<int> podzielne = CzyPodzielne(numbers);
+
+                    // wyświetlenie wynikowej listy
+                    System.Console.WriteLine("Lista liczb podzielnych przez 3 lub 5: ");
+                    foreach (int item in podzielne)
+                    {
+                        System.Console.Write(item+" ");
+                    }
+                    System.Console.WriteLine();
+                    break;
+                // case 2:
+                    // dokończyć
+            }
+        } 
+        while (choice != 5);        
+
+        // // sprawdzenie metodą CzyPodzielne() listy numbers oraz wyświetlenie jej
+        // List<int> podzielne = CzyPodzielne(numbers);
+        // foreach (int item in podzielne)
+        // {
+        //     System.Console.Write(item+" ");
+        // }
 
     }
     // metoda, która przyjmuje listę liczb i zwraca nową listę liczb podzielnych przez 3 lub 5
@@ -68,4 +144,6 @@ class Program
         }
         return podzielne;
     }
+
+
 }
