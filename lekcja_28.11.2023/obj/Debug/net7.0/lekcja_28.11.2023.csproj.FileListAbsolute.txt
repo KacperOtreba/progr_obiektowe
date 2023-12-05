@@ -1,0 +1,14 @@
+C:\Users\uczen\Desktop\lekcja_28.11.2023\bin\Debug\net7.0\lekcja_28.11.2023.exe
+C:\Users\uczen\Desktop\lekcja_28.11.2023\bin\Debug\net7.0\lekcja_28.11.2023.deps.json
+C:\Users\uczen\Desktop\lekcja_28.11.2023\bin\Debug\net7.0\lekcja_28.11.2023.runtimeconfig.json
+C:\Users\uczen\Desktop\lekcja_28.11.2023\bin\Debug\net7.0\lekcja_28.11.2023.dll
+C:\Users\uczen\Desktop\lekcja_28.11.2023\bin\Debug\net7.0\lekcja_28.11.2023.pdb
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.AssemblyInfoInputs.cache
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.AssemblyInfo.cs
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.dll
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\refint\lekcja_28.11.2023.dll
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.pdb
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\lekcja_28.11.2023.genruntimeconfig.cache
+C:\Users\uczen\Desktop\lekcja_28.11.2023\obj\Debug\net7.0\ref\lekcja_28.11.2023.dll
